@@ -17,3 +17,4 @@
 15. Umi@4.x
 16. TypeScript
 17. Ant Design
+18. Tailwind CSS
